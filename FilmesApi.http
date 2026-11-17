@@ -1,0 +1,8 @@
+POST https://localhost:5233/filme
+Content-Type: application/json
+
+{
+  "Titulo": "Alura Filmes",
+  "Genero": "Aventura",
+  "Duracao": 180
+}

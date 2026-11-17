@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0lfMhZkbhZk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maria Eduarda\\Documents\\FilmesApi\\FilmesApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria Eduarda\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.14\\microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "C:\\Users\\Maria Eduarda\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512",
+    "C:\\Users\\Maria Eduarda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\11.0.1\\swashbuckle.aspnetcore.swaggerui.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

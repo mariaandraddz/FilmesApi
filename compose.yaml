@@ -1,0 +1,7 @@
+﻿services:
+  filmesapi:
+    image: filmesapi
+    build:
+      context: .
+      dockerfile: Dockerfile
+
